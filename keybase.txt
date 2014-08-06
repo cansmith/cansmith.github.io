@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/cansmith
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.dreadnought.org
+  * I am cansmith (https://keybase.io/cansmith) on keybase.
+  * I have a public key with fingerprint 35C6 8333 315D D12B E7D7  5C70 4FAD 5757 7309 4001
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.3.2"
+        },
+        "key": {
+            "fingerprint": "35c68333315dd12be7d75c704fad575773094001",
+            "host": "keybase.io",
+            "key_id": "4FAD575773094001",
+            "uid": "655b75687490ee59868f6e50730f6900",
+            "username": "cansmith"
+        },
+        "merkle_root": {
+            "ctime": 1400104928,
+            "hash": "69b646904d2e11ba8bfd6810dd99730a0e9d8b0d9429456262f5c473274be3a03fe7796ccb13f2618fcf5e3bd37096ae254fd582e82cbcda1cba7d0a5a4813af",
+            "seqno": 8235
+        },
+        "service": {
+            "hostname": "www.dreadnought.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1400105056,
+    "expire_in": 157680000,
+    "prev": "a2ffaafa02f4a1080fba66fed562fbe5fe57a5d747e480c4efec193ee16cd4d2",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFdkm1QFVUYx+81JFBLBQcdUJKd20REd86+nH1Bp9SIJkokrmRoFzq7e/aycO9d
+2l3etBsQCprOIH5AxMHB8gUk0fDlA+I0voRCZlOOaYrJ4DjlNMNAmFEB0y5DU3Y+
+nbP7e/7/5/+cs/OpJxwRzjVH160zIlc4nV89EB0e4+f3NhGiJpcTKZsIya/ioGnv
+giiAiRSiEJeLyMBuVVsa1GTsLjCWTjPJRAnWDVULWhRw026KCCXbuF2sqEEf1ot0
+1dYiaCixPG0tEsoySYmYkzkocYBRkAw5yHE0EBgASEsyXzPMx1yJKc08Vba+Mmkr
+U//HF0/9YCEUOcjyHCMAjKHAs7zCYggsUGEFAGzQwPp0JAkFjYBq5tv9BrBe6Md5
+uqZNhZZM1UZIWx0wAsVbHSEj37YQRJaxtBiZwiQpIl5UZJYngSwLgmWDABZkXgSy
+wFACA1mKpRQoMRxNcYyIaQRoBXOcwEqSSNIKxZK8IikQ06JMc0BgEaYgo8iQpzBP
+SaIkI1ISEScDBBHDkzRSrAgGfj+oESk8RcOQfdJLVAnbXdtDm85WWlrqlnWM5KBW
+7Ms33ZrusyqLdM3UJM1vAfmmWZRiJzfLi6yCTqIUi3nTWnmiGpStm/vv1ZIW+thU
+IIBsMoHLilQd56k2ATmWB9ayfXCJ5YEoRUFIQYBSGEQCHigiYlkFy9ZcFBFDBUMO
+QZljOMzwQGKwgiVSoDEmWUm2BvxvVtrqE/ksSUP1BZFZrGMitG3G4jCHM8IRPnOG
+/XYdsyLn/fOgW+vnTsQ2tSz4/pu00pKj/vDtFT8MtrX3HBsqPrt29Mjxmu5r813B
+wz2OZ6ob42oCGSO7wehijyv8u+tL+IaGjN1dhQ3Z58OXX3l4vL3LG55bEvnutvGa
+y4smv6Bf4g9cyJ0cvtn06LOk2vVP/76mPPvecHPYsx9vPxbV13fASM4qW+hu6WY7
+mKaMG7ByRR3VyASae+s/iRnKMMZi+hu8Nf6o4WXSoVWvfXun7zA9J8mTUHM1yvSG
+krxxb5056Li8dejOwEnvmw9C9+d/PbSL+7E+t//licgno/fol145GVg9dju9otf7
+0WD8rugNFxLLt7hPoejd4J2cyrXjCVndiTHVUX1LXEdOPZeYNq4dXF5V1upJfPXL
+49mdofsu95aLlwacb0TCiaxHsQvTu7iHbZkbJjOh5xdqT+7luWFpxxrXS82x5/bm
+9Kyu3DviEWYtaoi9WxM9ZsYlpxQyytmreuYHn4e/6Cwerc+JSb1bfTuxbgKcmddK
+u+5lzBm5ZfI3CwaWRR/c6Kn41fH6yhHvYNGHC3qv99WFerJf8ByanXtxc/Wqv3ZU
+nah7/pSe/umY9Gfr6IZiZUsOqO2fHIInBrN23BrryE6tL+g43V2Wedrf2dLrP7d/
+IOlW7fDovhtdtX8kHNq+aHbVQFh36pW3H21ui5i57NrJ/flbf3MJO337Ojdeje8X
+u9ID7T8JJ87Hp/wN
+=Pkd0
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cansmith
+
+==================================================================
